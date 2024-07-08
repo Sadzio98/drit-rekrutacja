@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Rekrutacja": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files (x86)\\Soneta\\enova365 2306.2.7.0\\SonetaExplorer.exe",
+      "commandLineArgs": "/nodbextensions"
+    }
+  }
+}
